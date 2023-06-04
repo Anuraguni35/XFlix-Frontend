@@ -1,0 +1,55 @@
+.CardContainer{
+    max-width: 180vh;
+    background-color: #181818;
+    /* display:  inline-grid; */
+    justify-content: center;
+    margin-top: 30px;
+}
+.OuterContainer{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #181818;
+}
+.Card{
+ max-width: 25em ;
+ cursor: pointer;
+  
+}
+.Card:hover{
+    background-color: #00000013;
+    border-radius: 3px;
+    color: #00000013; 
+}
+
+.cardimg{
+    max-width: 90%;
+    border-radius:5px;
+}
+ 
+.GridP{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 19px;
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+}
+.GridDate{
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-left: 19px;
+    color: #D1D5DA;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+    display: flex;
+    align-items: center;
+}

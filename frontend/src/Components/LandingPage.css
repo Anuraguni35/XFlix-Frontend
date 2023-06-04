@@ -1,0 +1,20 @@
+.search-desktop  {
+   background-color: #121212;
+   color:#444D56;
+   width: 70vh;
+   height: 5vh;
+   border: none;
+   padding-left :15px; 
+   font-size: 1.2em;
+    
+}
+.SearchDiv{
+   align-self: center;
+   border:1px solid #444D56;
+   border-radius: 3px;
+   background-color: #121212
+}
+.Searchbtn{
+   background-color: black;
+    color :white
+}

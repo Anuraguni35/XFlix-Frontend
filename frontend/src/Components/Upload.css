@@ -1,0 +1,65 @@
+ .width-set{
+    width: 45vh;
+    margin-top: 4vh;
+ }
+ .UploadContainer{
+  /* width: 65vh; */
+  border-radius: 2px;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+ }
+ .MuiDialog-container{
+   width: 63vh;
+ }
+ .uploadbgcolor{
+  background-color: rgb(56 56 56);
+   border: 0px;
+ }
+ .uploadTitle{
+  display: flex;
+  justify-content: space-between;
+ }
+ .inputColor{
+  color:#FFFFFF99 !important;
+  font-size: 2vh !important;
+  border-color: #FFFFFF99 !important;
+ }
+ .inputBoxColor{
+  color:#FFFFFF99 !important;
+  border-color: #FFFFFF99 !important;
+ }
+.MuiFormHelperText-root{
+  color:#FFFFFF99 !important;
+  font-size: 1.2vh !important;
+}
+.MuiOutlinedInput-root{
+  color:#FFFFFF99 !important;
+}
+.Actioncontainer{
+ display: flex;
+ justify-content: flex-start !important;
+ padding: 2.2vh !important;
+ padding-top: 0vh !important;
+ padding-bottom: 3vh !important;
+}
+.uploadbtnRed{
+  font-size: 1.5vh !important;
+  padding: 1.3vh;
+  background-color: #EE1520;
+  color: white;
+  border: 0px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+.uploadbtnRed:active{
+  background-color: #ee1520e1;;
+}
+.cancelbtn{
+  border: 0px;
+  background-color: rgb(56 56 56);
+  color: white;
+  font-size: 1.5vh !important;
+  cursor: pointer;
+}
+  

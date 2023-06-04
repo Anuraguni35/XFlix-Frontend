@@ -1,0 +1,107 @@
+.Videoplayer{
+   border: 0px; 
+   border-radius: 5px;
+}
+.videoCard{
+    margin-top: 20px;
+}
+.VideoContainer{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: #181818;
+}
+.seprator{
+    width: 175vh;
+    color: #D8D8D8;
+    background-color:#D8D8D8;
+    height: 0.3px;
+    border: 0px;
+    margin-top: 3vh;
+    margin-bottom: 0px;
+}
+.titleSec{
+    display: flex;
+    flex-direction: column;
+    color:white
+}
+.titleSecOuter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+ /* .Like-btn {
+    cursor: pointer;
+    display: inline-block;
+    
+    font-size: 15px;
+    font-weight: normal;
+    
+    margin-top: 38px  ;
+    text-transform: capitalize;
+    user-select: none;
+    display: flex;
+    background-color: rgb(47 47 47);
+    color: #FFFFFF;
+    width: 10vh;
+    padding: 2px;
+    border-radius: 15px;
+    padding-right: 3vh;
+  }
+.likebtn-label {
+    
+    border-radius: 20px;
+    color: #FFFFFF;
+    display: block;
+     
+    text-decoration: none;
+    padding-left: 10px;
+}
+.Like-btn input[type="checkbox"] {
+    display: none;
+}
+.Like-btn input[type="checkbox"]:checked + .likebtn-label{
+    background-color: #4CA3FC;
+    font-weight:400;
+    font-size: 15px;
+}
+.Like-btn
+    input[type="checkbox"]:checked
+    + .likebtn-label
+    .Icon--checkLight {
+    display: inline-block; 
+  }
+  .Like-btn input[type="checkbox"]:checked + .likebtn-label .Icon--addLight,.likebtn-label .Icon--checkLight,
+  .Like-btn-children {
+    display: none;
+  } 
+  */
+
+  .container {
+     display: flex;
+  }
+   
+  .btn-container {
+     display: flex;
+  }
+   
+  .btn {
+    border: 0px;
+    margin: 3vh 1vh;
+    padding: 1vh 2vh;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer; 
+  }
+   
+  .active-like {
+    background-color: #4CA3FC;
+    color:white
+  }
+  
+  .like{
+    background-color: rgb(47 47 47);
+    color:white
+    
+  }

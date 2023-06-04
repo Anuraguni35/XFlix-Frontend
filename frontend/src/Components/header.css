@@ -1,0 +1,37 @@
+.header {
+    height: 8vh;
+    width: 100%;
+    background : #202020 ;  
+    
+}
+.Logo{
+    align-self: center;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.link{
+    text-decoration: none;
+}
+.LogoX {
+    font-family: 'Roboto';
+    font-style: normal;
+    color:#EE1520;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+     
+}
+.LogoF {
+    font-family: 'Roboto';
+    font-style: normal;
+    color:#E1E4E8;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+     
+}
+.uploadbtn{
+    align-self: center;
+}

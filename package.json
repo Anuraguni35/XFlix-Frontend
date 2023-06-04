@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"@mui/x-date-pickers": "^6.0.3",
+		"react-player": "^2.12.0"
+	}
+}
